@@ -1,5 +1,8 @@
 # Concurrent-Traffic-Simulation
    Udacity C++ Nanodegree Project #4
+https://confirm.udacity.com/9PL6RSGE
+
+![SensorFusion_Certificate](sensorFusion_certificate.png)
 
 <img src="data/traffic_simulation.gif"/>
 
